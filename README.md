@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2>Hi ! 👋</h2>
 
-<!--
-**NazariyBrynyarskiy/NazariyBrynyarskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>👨‍💻I'm a student of Ivan Franko National University of Lviv</h3>
+<p>- Faculty: Applied Mathematics and Informatics</p>
+<p>- Speciality: Applied Mathematics</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>About this account</h3>
+<p>- I keep this GitHub account to write my projects and improve my practical skills</p>
+<p>- At the moment, my direction is Java Backend☕️</p>
+
+<h4>Main technologies I use</h4>
+<p>▫︎ Java language</p>
+<p>▫︎ Mysql</p>
+<p>▫︎ Servlets</p>
+<p>▫︎ Spring framework</p>
