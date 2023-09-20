@@ -2,7 +2,7 @@
 
 <h3>👨‍💻I'm a student of Ivan Franko National University of Lviv</h3>
 <p>- Faculty: Applied Mathematics and Informatics</p>
-<p>- Speciality: Applied Mathematics</p>
+<p>- Speciality: System analysis</p>
 
 <br>
 
