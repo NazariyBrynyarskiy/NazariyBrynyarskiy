@@ -13,5 +13,5 @@
 <h4>Main technologies I use</h4>
 <p>▫︎ Java language</p>
 <p>▫︎ Mysql</p>
-<p>▫︎ Servlets</p>
+<p>▫︎ Jakarta EE</p>
 <p>▫︎ Spring framework</p>
